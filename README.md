@@ -17,8 +17,6 @@ The project follows this pipeline:
 5.  **Train Model**: Train a Gaussian Naïve Bayes classifier on the feature vectors.
 6.  **Evaluate & Predict**: Assess the model's performance and use it to classify new, unseen messages.
 
-![Pipeline Diagram](https://i.imgur.com/8aZ2a2o.png)
-
 ## 💾 Dataset
 
 The model is trained on a publicly available dataset of SMS messages. The dataset consists of two columns:
